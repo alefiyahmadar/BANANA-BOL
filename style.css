@@ -1,0 +1,121 @@
+body{
+
+    background-color: #fef08a
+    ;
+    
+    text-align: center;
+   
+}
+:root{
+
+    --primary-color:#fef08a;
+    --secondry-color:#ca8a04;
+
+}
+
+
+
+
+
+
+
+        #input{
+
+            border: 1px black solid;
+            padding: 1rem 2rem;
+            display: block;
+            width: 60%;
+            height: 6rem;
+            background-color: #fef9c3
+            ;
+            margin: auto;
+            font-size: 1rem;
+            margin-top: 1rem;
+            margin-bottom: 1rem;
+        }
+
+        #btn-trans{
+
+            margin: 1rem;
+            padding: 0.5rem 1rem;
+            background-color: #fde047;
+            border-radius: 1rem;
+            color: #ca8a04;
+            font-size: 1rem;
+            border-color: #ca8a04;
+            
+        }
+        #output{
+
+
+            border: 1px black solid;
+            padding: 1rem 1rem;
+            display: block;
+            width: 60%;
+            height: 6rem;
+            background-color: #fef9c3
+            ;
+            margin: auto;
+            font-size: 2rem;
+            
+            margin-bottom: 2rem;
+        }
+            
+        .txtStyle{
+
+            font-family: 'Edu NSW ACT Foundation', cursive;
+            color:#ca8a04;
+            padding: 1rem 1rem;
+
+            
+            
+        }
+        
+.footer{
+    padding: 1rem 1rem;
+        background-color: #ca8a04;
+        border-bottom-right-radius: 1rem;
+        text-align: center;
+    }
+    
+    .linked{
+    
+        padding: 1rem 1rem;
+        color: white;
+        font-size: 1rem;
+        text-decoration: none;
+    }
+    .footerh{
+    
+       font-size: 2rem; 
+       color:var(--primary-color)
+    }
+    
+.no-bullets{
+
+    list-style: none;
+    padding: 1rem 1rem;
+    
+}
+.inline{
+
+    display: inline; 
+    padding: 1rem 1rem;
+    
+
+    
+}
+
+.linked{
+
+    padding: 1rem 1rem;
+    color:var(--primary-color);
+    font-size: large;
+    text-decoration: none;
+}
+
+.padded{
+
+    padding: 0rem 8rem;
+    
+    }
