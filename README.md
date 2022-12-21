@@ -6,7 +6,7 @@
 
 
    - [Tech Stack](#tech-stack)
-   - [Working](#working:)
+   - [Working](#working)
    - [Screenshot](#screenshot)
 
  - [Play Quiz](#live-app)
