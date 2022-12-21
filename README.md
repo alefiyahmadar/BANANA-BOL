@@ -22,7 +22,7 @@
 
  ---
 
- ## Working :
+ ## Working
 
  1. ### It takes input from the user
  2. ### With the help of given API
