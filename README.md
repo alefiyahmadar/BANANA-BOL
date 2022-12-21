@@ -42,5 +42,5 @@
 
 ## Live App
 
-## [Play Quiz](https://banana-bol.netlify.app)
+## [Play Quiz](https://banana-bol.netlify.app/)
 
